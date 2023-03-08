@@ -1,10 +1,10 @@
 # Link Card
 Link Card is a simple web page that displays a card with links to social media profiles.
 
-#Description
+# Description
 Link Card is a static web page built using HTML and CSS. The page displays a card with links to popular social media profiles such as LinkedIn, Twitter, and Instagram. The design of the page is minimalist and elegant, making it perfect for personal websites or portfolios.
 
-#Installation
+# Installation
 Link Card is a simple web page that does not require any installation. Simply download the index.html and style.css files and edit it as u want and open the index.html file in your web browser.
 
 # Usage
